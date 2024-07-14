@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct ForeCastApiResponse: Codable {
+    let list: [ForeCast]
+    let city: City
+}
