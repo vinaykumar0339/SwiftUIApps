@@ -1,7 +1,7 @@
 # Weather App
 
 # Demo
-![Weather App](../Demos/WeatherApp.gif)
+<img src="../Demos/WeatherApp.gif" alt="Weather App Demo" width="200" height="400">
 
 ## Api
 * use [Open Weather Api](https://openweathermap.org/forecast5) to get weather details
