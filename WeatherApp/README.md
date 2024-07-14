@@ -1,5 +1,8 @@
 # Weather App
 
+# Demo
+![Weather App](../Demos/WeatherApp.gif)
+
 ## Api
 * use [Open Weather Api](https://openweathermap.org/forecast5) to get weather details
 
